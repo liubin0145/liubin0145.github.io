@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Associate Professor from Department of Statistics and Data Science, School of Management at Fudan University]( https://www.fdsm.fudan.edu.cn). My research interest includes high dimensional data analysis, change point analysis, robust statistical inference and machine learning. 
+I'm an Associate Professor from [Department of Statistics and Data Science, School of Management at Fudan University]( https://www.fdsm.fudan.edu.cn). My research interest includes high dimensional data analysis, change point analysis, robust statistical inference and machine learning. 
 I am very fortunate to be advised by Prof. Xinsheng Zhang from Fudan University. 
 
 You can find my CV here: [XX's Curriculum Vitae](…/assets/Curriculum_Vitae

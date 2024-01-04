@@ -16,7 +16,7 @@ I'm an Associate Professor from [Department of Statistics and Data Science](http
 Education
 ======
 * 21.282013-2019, Ph.D. in Mathematical Statistics, School of Management at Fudan University (with Prof. Xinsheng Zhang)
-* 2017-2018, Visiting Scholar, Department of Statistics and Operations Research, UNC (with Prof. Yufeng Liu)
+* 21.44 2017-2018, Visiting Scholar, Department of Statistics and Operations Research, UNC (with Prof. Yufeng Liu)
 * 2009-2013, B.S. in Statistics, Shandong University
 
 

@@ -13,7 +13,7 @@ I am very fortunate to be advised by Prof. Xinsheng Zhang from Fudan University.
 
 You can find my CV here: [XX's Curriculum Vitae](…/assets/Curriculum_Vitae
 
-[Email](mailto:bin_liu@fudan.edu.cn) /[Github](https://github.com/LiuBin) 
+[Email](mailto:bin_liu@fudan.edu.cn) /[Github](https://github.com/liubin0145/liubin0145.github.io)
 
 A data-driven personal website
 ======

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Associate Professor from [Department of Statistics and Data Science](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012128), [School of Management at Fudan University]( https://www.fdsm.fudan.edu.cn). 
-I am very fortunate to be advised by Prof. Xinsheng Zhang at Fudan University.  I got my Ph.D. degree in Mathematical Statistics from School of Management at Fudan University in 2019. During 2019-2020 I worked as a postdoctoral research fellow in [Department of Statistics, the Chinese University of Hong Kong](https://www.sta.cuhk.edu.hk) with Prof. Qiman Shao.My research interest includes high dimensional data analysis, change point analysis, robust statistical inference and machine learning. 
+I'm an Associate Professor from [Department of Statistics and Data Science](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012128), [School of Management at Fudan University]( https://www.fdsm.fudan.edu.cn). I am very fortunate to be advised by Prof. Xinsheng Zhang at Fudan University. I got my Ph.D. degree in Mathematical Statistics from School of Management at Fudan University in 2019. During 2019-2020 I worked as a postdoctoral research fellow in [Department of Statistics, the Chinese University of Hong Kong](https://www.sta.cuhk.edu.hk) with Prof. Qiman Shao. My research interest includes high dimensional data analysis, change point analysis, robust statistical inference and machine learning. 
 
 
 [Email](mailto:bin_liu@fudan.edu.cn) /[Github](https://github.com/liubin0145/liubin0145.github.io)
@@ -52,4 +51,4 @@ Research projects
 
 Honors
 =====
-2023.10,The 16th Shanghai Philosophy and Social Science Excellent Achievement Award,Second Prize,Shanghai Philosophy and Social Science Excellence Award Committee Office
+2023-10, The 16th Shanghai Philosophy and Social Science Excellent Achievement Award, Second Prize,Shanghai Philosophy and Social Science Excellence Award Committee Office

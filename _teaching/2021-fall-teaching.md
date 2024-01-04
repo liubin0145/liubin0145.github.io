@@ -8,6 +8,6 @@ date: 2021-09-01
 location: "Shanghai"
 ---
 
-Statistical Computing (Undergraduate course)
-Statiscal Software (Graduate course)
-Data Mining and Machine Learning (Undergraduate course)
+* Statistical Computing (Undergraduate course)
+* Statiscal Software (Graduate course)
+* Data Mining and Machine Learning (Undergraduate course)

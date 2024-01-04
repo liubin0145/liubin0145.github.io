@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 ---
 
-* Xianru Wang; Bin Liu*; Xinsheng Zhang; Yufeng Liu; Efficient change point detection for high dimensional generalized linear models, The Canadian Journal of Statistics, 2023, 51(2): 569-629.<br>
+* Xianru Wang; Bin Liu*; Xinsheng Zhang; Yufeng Liu; Efficient change point detection for high dimensional generalized linear models, The Canadian Journal of Statistics, 2023, 51(2): 569-629.  
 [Download Paper](https://doi.org/10.1002/cjs.11721)
-*  Xianru Wang; Bin Liu*; Xinsheng Zhang; A computationally efficient and flexible algorithm for high dimensional mean and covariance matrix change point models, Journal of the Korean Statistical Society, 2022, 51: 1216-1246.<br>  
+*  Xianru Wang; Bin Liu*; Xinsheng Zhang; A computationally efficient and flexible algorithm for high dimensional mean and covariance matrix change point models, Journal of the Korean Statistical Society, 2022, 51: 1216-1246.   
 [Download Paper](https://link.springer.com/article/10.1007/s42952-022-00183-3)
 * Bin Liu; Xinsheng Zhang; Yufeng Liu*; High dimensional change point inference: Recent developments and extensions, Journal of Multivariate Analysis, 2022, 188: 1-20.
 * Bin Liu; Xinsheng Zhang; Yufeng Liu*; Simultaneous change point inference and structure recovery for high dimensional Gaussian Graphical Models, Journal of Machine Learning Research, 2021, 22: 1-62.

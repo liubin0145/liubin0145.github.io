@@ -1,5 +1,5 @@
 ---
-title: "Fall 2020-2021 Spring"
+title: "2020-2021"
 collection: teaching
 permalink: /teaching/2020-fall-teaching
 venue:  "Fudan University,Department of Statistics and Data Science"

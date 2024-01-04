@@ -1,13 +1,12 @@
 ---
 title: "2021-2022"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching
-venue: "Fudan University 1, Department of Statistics and Data Science"
-date: 2021-09-01
+venue: "Fudan University, Department of Statistics and Data Science"
 location: "Shanghai"
 ---
 
-* Statistical Computing (Undergraduate course)
-* Statiscal Software (Graduate course)
-* Data Mining and Machine Learning (Undergraduate course)
+* Statistical Computing, Fall 2020, Fall 2021, Fall 2022, Fall 2023
+* Statistical SoftWare, Spring 2021, Spring 2022, Spring 2023
+* Data Mining and Machine Learning, Spring 2021, Fall 2021, Fall 2022, Fall 2023
+* Principles and Applications of Machine Learning，Fall 2023

@@ -9,8 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#不需要显示Portfolio页面，将它注释掉   
+#  - title: "Portfolio"
+#    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/

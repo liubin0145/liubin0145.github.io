@@ -16,3 +16,4 @@ permalink: /publication/2009-10-01-paper-title-number-1
 * Yong He; Xinsheng Zhang; Jiadong Ji; Bin Liu*; Joint estimation of multiple high-dimensional Gaussian copula graphical models, Australian & New Zealand Journal of Statistics, 2017, 59: 289-310.
 
 
+

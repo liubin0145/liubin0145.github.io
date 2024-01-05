@@ -3,7 +3,9 @@ title: "Paper Title Number 11"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 ---
-
+---
+Published papers(* denotes the corresponding author):
+---
 * Xianru Wang; Bin Liu*; Xinsheng Zhang; Yufeng Liu; [Efficient change point detection for high dimensional generalized linear models](https://doi.org/10.1002/cjs.11721), The Canadian Journal of Statistics, 2023, 51(2): 569-629.  
 *  Xianru Wang; Bin Liu*; Xinsheng Zhang; [A computationally efficient and flexible algorithm for high dimensional mean and covariance matrix change point models](https://link.springer.com/article/10.1007/s42952-022-00183-3), Journal of the Korean Statistical Society, 2022, 51: 1216-1246.   
 * Bin Liu; Xinsheng Zhang; Yufeng Liu*; [High dimensional change point inference: Recent developments and extensions](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21001111), Journal of Multivariate Analysis, 2022, 188: 1-20.
@@ -13,5 +15,19 @@ permalink: /publication/2009-10-01-paper-title-number-1
 * Mingjuan Zhang; Cheng Zhou; Yong He; Bin Liu; [Data-adaptive test for high-dimensional multivariate analysis of variance problem](https://doi.org/10.1111/anzs.12246), Australian & New Zealand Journal of Statistics, 2018, 60: 447-470.
 * Yong He; Xinsheng Zhang; Jiadong Ji; Bin Liu*; [Joint estimation of multiple high-dimensional Gaussian copula graphical models](https://doi.org/10.1111/anzs.12198), Australian & New Zealand Journal of Statistics, 2017, 59: 289-310.
 
+---
+Preprints
+---
+* Xianru Wang; Bin Liu*; Xinsheng Zhang; Yufeng Liu; Efficient multiple change point detec- tion and localization for high-dimensional quantile regression with heteroscedasticity, Journal of the American Statistical Association, acceptable after minor revisions. 
+* Bin Liu; Xinsheng Zhang; Yufeng Liu*; Simultaneous change point detection and identifica-tion for high dimensional linear models, Statistica Sinica, under major revision.
+* Bin Liu; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
+dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532). arXiv: 2207.11532. Under review.
+* Zhi Yang, Liwen Zhang, Bin Liu*; Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails. Under review.
 
+---
+Working manuscritps
+---  
+* Oracle Multiple Change point Detection For High-dimensional Gaussian Graphical Models (with Xianru Wang, Yufeng Liu). 
+* Qilong Ding, Bin Liu*. Efficient Multiple change point detection for high dimensional dynamic networks (with Qilong Ding).
+* Optimal online change point detection (with Xianru Wang, Junhui Wang)
 

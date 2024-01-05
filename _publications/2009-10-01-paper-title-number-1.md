@@ -23,7 +23,7 @@ Preprints
 * Bin Liu; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
 dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532). arXiv: 2207.11532. Under review.
 * Zhi Yang, Liwen Zhang, Bin Liu*; Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails. Under review.
-
+* Disentangling Sex-Dependent Effects of APOE on Diverse Trajectories of Cognitive Decline in Alzheimer's Disease (Yufeng Liu)，NeuroImage, under revision.  
 ---
 Working manuscritps
 ---  

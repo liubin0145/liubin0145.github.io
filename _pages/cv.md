@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[中文简历]((https://liubin0145.github.io//files/cv.pdf))
+
 Education
 ======
 * 2013-2019, Ph.D. in Mathematical Statistics, School of Management at Fudan University (with Prof. Xinsheng Zhang)

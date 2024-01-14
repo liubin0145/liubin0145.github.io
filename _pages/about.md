@@ -13,6 +13,8 @@ I'm an Associate Professor from [Department of Statistics and Data Science](http
 
 [Email](mailto:bin_liu@fudan.edu.cn) /[Github](https://github.com/liubin0145/liubin0145.github.io)
 
+[中文简历]((https://liubin0145.github.io//files/cv.pdf))
+
 Education
 ======
 * 2013-2019, Ph.D. in Mathematical Statistics, School of Management at Fudan University (with Prof. Xinsheng Zhang)

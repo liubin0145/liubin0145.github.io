@@ -5,6 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 ---
 
 **Published papers** (*denotes the corresponding author)
+* **Bin Liu**; Xinsheng Zhang; Yufeng Liu*; [Simultaneous change point detection and identification for high dimensional linear models](https://liubin0145.github.io//files/reg-sinica.pdf), **Statistica Sinica**,2024+, forthcoming.
 * Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient change point detection for high dimensional generalized linear models](https://doi.org/10.1002/cjs.11721), **The Canadian Journal of Statistics**, 2023, 51(2): 569-629.  
 *  Xianru Wang; **Bin Liu***; Xinsheng Zhang; [A computationally efficient and flexible algorithm for high dimensional mean and covariance matrix change point models](https://link.springer.com/article/10.1007/s42952-022-00183-3), **Journal of the Korean Statistical Society**, 2022, 51: 1216-1246.   
 * **Bin Liu**; Xinsheng Zhang; Yufeng Liu*; [High dimensional change point inference: Recent developments and extensions](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21001111), **Journal of Multivariate Analysis**, 2022, 188: 1-20.
@@ -16,7 +17,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
   
 **Preprints**
 * Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; Efficient multiple change point detection and localization for high-dimensional quantile regression with heteroscedasticity, **Journal of the American Statistical Association**, acceptable after minor revisions. 
-* **Bin Liu**; Xinsheng Zhang; Yufeng Liu*; [Simultaneous change point detection and identification for high dimensional linear models](https://liubin0145.github.io//files/reg-sinica.pdf), **Statistica Sinica**, under major revision.
 * **Bin Liu**; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
 dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532), **Statistica Sinica**,under major revision.
 * Zhi Yang, Liwen Zhang, **Bin Liu***; [Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails](https://liubin0145.github.io//files/yangzhi-1.pdf). Under review.

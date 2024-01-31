@@ -20,7 +20,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 * **Bin Liu**; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
 dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532), **Statistica Sinica**,under major revision.
 * Zhi Yang, Liwen Zhang, **Bin Liu***; [Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails](https://liubin0145.github.io//files/yangzhi-1.pdf). Under review.
-* Haixu Ma, Zhuoyu Shi, Minjeong Kim, Bin Liu, Patrick J. Smith, Yufeng Liu, Guorong Wu; Disentangling Sex-Dependent Effects of APOE on Diverse Trajectories of Cognitive Decline in Alzheimer's Disease (https://liubin0145.github.io//files/ADNI.pdf)，**NeuroImage**, under major revision.
+* Haixu Ma, Zhuoyu Shi, Minjeong Kim, Bin Liu, Patrick J. Smith, Yufeng Liu, Guorong Wu; [Disentangling Sex-Dependent Effects of APOE on Diverse Trajectories of Cognitive Decline in Alzheimer's Disease](https://liubin0145.github.io//files/ADNI.pdf)，**NeuroImage**, under major revision.
   
 **Working manuscritps**
 * Oracle Multiple Change point Detection For High-dimensional Gaussian Graphical Models (with Xianru Wang, Yufeng Liu). 

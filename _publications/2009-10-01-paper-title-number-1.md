@@ -16,7 +16,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 * Yong He; Xinsheng Zhang; Jiadong Ji; **Bin Liu***; [Joint estimation of multiple high-dimensional Gaussian copula graphical models](https://doi.org/10.1111/anzs.12198), **Australian & New Zealand Journal of Statistics**, 2017, 59: 289-310.
   
 **Preprints**
-* Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; Efficient multiple change point detection and localization for high-dimensional quantile regression with heteroscedasticity, **Journal of the American Statistical Association**, acceptable after minor revisions. 
+* Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient multiple change point detection and localization for high-dimensional quantile regression with heteroscedasticity](https://liubin0145.github.io//files/quantile_jasa.pdf), **Journal of the American Statistical Association**, acceptable after minor revisions. 
 * **Bin Liu**; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
 dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532), **Statistica Sinica**, under major revision.
 * Zhi Yang, Liwen Zhang, **Bin Liu***; [Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails](https://liubin0145.github.io//files/yangzhi-1.pdf). **The Canadian Journal of Statistics**, under minor revision.

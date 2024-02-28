@@ -11,7 +11,8 @@ redirect_from:
 I'm an Associate Professor from [Department of Statistics and Data Science](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012128), [School of Management at Fudan University]( https://www.fdsm.fudan.edu.cn). I am very fortunate to be advised by Prof. Xinsheng Zhang at Fudan University. I got my Ph.D. degree in Mathematical Statistics from School of Management at Fudan University in 2019. During 2019-2020 I worked as a postdoctoral research fellow in [Department of Statistics, the Chinese University of Hong Kong](https://www.sta.cuhk.edu.hk) with Prof. Qiman Shao. My research interest includes high dimensional data analysis, change point analysis, robust statistical inference and machine learning. 
 
 
-[Email](mailto:bin_liu@fudan.edu.cn) /[Github](https://github.com/liubin0145/liubin0145.github.io)
+[Email:bin_liu@fudan.edu.cn](mailto:bin_liu@fudan.edu.cn) 
+[Github:https://github.com/liubin0145/liubin0145.github.io](https://github.com/liubin0145/liubin0145.github.io)
 
 [中文简历](https://liubin0145.github.io//files/cv.pdf)/[CV](https://liubin0145.github.io//files/CV-FDSM.pdf)
 

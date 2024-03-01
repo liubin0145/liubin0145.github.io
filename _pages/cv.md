@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[中文简历](https://liubin0145.github.io//files/cv.pdf)
+[中文简历](https://liubin0145.github.io//files/cv.pdf)/[CV](https://liubin0145.github.io//files/CV-FDSM.pdf)
 
 Education
 ======

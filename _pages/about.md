@@ -13,7 +13,7 @@ I'm an Associate Professor from [Department of Statistics and Data Science](http
 
 Email: bin_liu@fudan.edu.cn
 
-Github: https://github.com/liubin0145/liubin0145.github.io
+Github: [https://github.com/liubin0145/liubin0145.github.io](https://github.com/liubin0145/liubin0145.github.io)
 
 [中文简历](https://liubin0145.github.io//files/cv.pdf)/[CV](https://liubin0145.github.io//files/CV-FDSM.pdf)
 

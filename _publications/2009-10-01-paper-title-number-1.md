@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 
 **Published papers** (*denotes the corresponding author)
 * Zhi Yang, Liwen Zhang, Siyu Sun,**Bin Liu***; [Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails](https://liubin0145.github.io//files/yangzhi-1.pdf). **The Canadian Journal of Statistics**, forthcoming.
-* Haixu Ma, Zhuoyu Shi, Minjeong Kim, Bin Liu, Patrick J. Smith, Yufeng Liu, Guorong Wu; [Disentangling Sex-Dependent Effects of APOE on Diverse Trajectories of Cognitive Decline in Alzheimer's Disease]([https://www.sciencedirect.com/journal/neuroimage/articles-in-press])，**NeuroImage**, forthcoming.
+* Haixu Ma, Zhuoyu Shi, Minjeong Kim, Bin Liu, Patrick J. Smith, Yufeng Liu, Guorong Wu; [Disentangling Sex-Dependent Effects of APOE on Diverse Trajectories of Cognitive Decline in Alzheimer's Disease](https://www.sciencedirect.com/journal/neuroimage/articles-in-press)，**NeuroImage**, forthcoming.
 * **Bin Liu**; Xinsheng Zhang; Yufeng Liu*; [Simultaneous change point detection and identification for high dimensional linear models](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0212_na.pdf), **Statistica Sinica**,2024+, forthcoming.
 * Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient change point detection for high dimensional generalized linear models](https://doi.org/10.1002/cjs.11721), **The Canadian Journal of Statistics**, 2023, 51(2): 569-629.  
 *  Xianru Wang; **Bin Liu***; Xinsheng Zhang; [A computationally efficient and flexible algorithm for high dimensional mean and covariance matrix change point models](https://link.springer.com/article/10.1007/s42952-022-00183-3), **Journal of the Korean Statistical Society**, 2022, 51: 1216-1246.   

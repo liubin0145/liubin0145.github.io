@@ -5,6 +5,9 @@ permalink: /publication/2009-10-01-paper-title-number-1
 ---
 
 **Published papers** (*denotes the corresponding author)
+* Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient multiple change point detection and localization for high-dimensional quantile regression with heteroscedasticity](https://liubin0145.github.io//files/quantile_jasa.pdf), **Journal of the American Statistical Association**, acceptable after minor revisions. 
+* **Bin Liu**; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
+dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532), **Statistica Sinica**, forthcoming.
 * Zhi Yang, Liwen Zhang, Siyu Sun,**Bin Liu***; [Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails](https://liubin0145.github.io//files/yangzhi-1.pdf). **The Canadian Journal of Statistics**, forthcoming.
 * Haixu Ma, Zhuoyu Shi, Minjeong Kim, Bin Liu, Patrick J. Smith, Yufeng Liu, Guorong Wu; [Disentangling Sex-Dependent Effects of APOE on Diverse Trajectories of Cognitive Decline in Alzheimer's Disease](https://www.sciencedirect.com/journal/neuroimage/articles-in-press)，**NeuroImage**, forthcoming.
 * **Bin Liu**; Xinsheng Zhang; Yufeng Liu*; [Simultaneous change point detection and identification for high dimensional linear models](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0212_na.pdf), **Statistica Sinica**,2024+, forthcoming.
@@ -17,12 +20,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 * Mingjuan Zhang; Cheng Zhou; Yong He*; **Bin Liu**; [Data-adaptive test for high-dimensional multivariate analysis of variance problem](https://doi.org/10.1111/anzs.12246), **Australian & New Zealand Journal of Statistics**, 2018, 60: 447-470.
 * Yong He; Xinsheng Zhang; Jiadong Ji; **Bin Liu***; [Joint estimation of multiple high-dimensional Gaussian copula graphical models](https://doi.org/10.1111/anzs.12198), **Australian & New Zealand Journal of Statistics**, 2017, 59: 289-310.
   
-**Preprints**
-* Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient multiple change point detection and localization for high-dimensional quantile regression with heteroscedasticity](https://liubin0145.github.io//files/quantile_jasa.pdf), **Journal of the American Statistical Association**, acceptable after minor revisions. 
-* **Bin Liu**; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
-dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532), **Statistica Sinica**, under major revision.
-
-
 **Working manuscritps**
 * Oracle Multiple Change point Detection For High-dimensional Gaussian Graphical Models (with Xianru Wang, Yufeng Liu). 
 * Efficient Multiple change point detection for high dimensional dynamic networks (with Qilong Ding).

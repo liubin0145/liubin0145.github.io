@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 ---
 
 **Published papers** (*denotes the corresponding author)
-* Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient multiple change point detection and localization for high-dimensional quantile regression with heteroscedasticity](https://liubin0145.github.io//files/quantile_jasa.pdf), **Journal of the American Statistical Association**, acceptable after minor revisions. 
+* Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient multiple change point detection and localization for high-dimensional quantile regression with heteroscedasticity](https://liubin0145.github.io//files/quantile_jasa.pdf), **Journal of the American Statistical Association**, forthcoming. 
 * **Bin Liu**; Zhengling Qi; Xinsheng Zhang; Yufeng Liu*; [Change point detection for high
 dimensional linear models: a general tail-adaptive approach](https://arxiv.org/abs/2207.11532), **Statistica Sinica**, forthcoming.
 * Zhi Yang, Liwen Zhang, Siyu Sun,**Bin Liu***; [Robust Change Point Detection for High-dimensional Linear Models with Tolerance for Heavy Tails](https://liubin0145.github.io//files/yangzhi-1.pdf). **The Canadian Journal of Statistics**, forthcoming.

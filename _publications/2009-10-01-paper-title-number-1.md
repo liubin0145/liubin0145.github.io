@@ -30,7 +30,7 @@ Framework for Change Detection in High Dimensions](https://liubin0145.github.io/
 *  **Bin Liu***; Yufeng Liu; Zhiqiang Liu; Liwen Zhang; [OPTIMIZED ACCELERATED ALGORITHMS FOR LARGE-SCALE
 DYNAMIC LOW-RANK MATRIX RECOVERY](https://liubin0145.github.io//files/quantile_jasa.pdf), **Submitted**
 * Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
-Time-varying Markov Random Fields](https://arxiv.org/abs/2207.11532), **Submitted**
+Time-varying Markov Random Fields](https://arxiv.org/abs/2207.11532), **Submitted** 
 
  **Working papers**  
 * Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang).

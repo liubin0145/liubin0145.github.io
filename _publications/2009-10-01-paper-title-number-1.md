@@ -21,16 +21,16 @@ dimensional linear models: a general tail-adaptive approach](https://arxiv.org/a
 13. Yong He; Xinsheng Zhang; Jiadong Ji; **Bin Liu***; [Joint estimation of multiple high-dimensional Gaussian copula graphical models](https://doi.org/10.1111/anzs.12198), **Australian & New Zealand Journal of Statistics**, 2017, 59: 289-310.
   
 **Submitted papers**
-1. **Bin Liu**;  Yufeng Liu*; [A General U-Statistic Framework for High-Dimensional Multiple Change-Point](https://arxiv.org/abs/2207.11532), **Submitted**
+1. **Bin Liu**;  Yufeng Liu*; [A General U-Statistic Framework for High-Dimensional Multiple Change-Point](https://liubin0145.github.io//files/general_U.pdf), **Submitted**
 2. Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient Oracle-based Estimation and Inference for Multiple
-Change Points in High-Dimensional Gaussian Graphical Models under Temporal Dependence](https://liubin0145.github.io//files/quantile_jasa.pdf), **Submitted**
+Change Points in High-Dimensional Gaussian Graphical Models under Temporal Dependence](https://liubin0145.github.io//files/graph_multi.pdf), **Submitted**
 3.  **Bin Liu***; Yufeng Liu; Zhiyang; Liwen Zhang; [Fit First and Detect Later: A Unified Decoupled
-Framework for Change Detection in High Dimensions](https://liubin0145.github.io//files/quantile_jasa.pdf), **Submitted**
+Framework for Change Detection in High Dimensions](https://liubin0145.github.io//files/decouple.pdf), **Submitted**
 4.  **Bin Liu***; Yufeng Liu; Zhiyang; Liwen Zhang; [Estimation of Multiple Structural Breaks in Ultra-High Dimensional Matrix-Valued Graphical Models](https://liubin0145.github.io//files/quantile_jasa.pdf), **Submitted**
 5.  **Bin Liu***; Yufeng Liu; Zhiqiang Liu; Liwen Zhang; [OPTIMIZED ACCELERATED ALGORITHMS FOR LARGE-SCALE
-DYNAMIC LOW-RANK MATRIX RECOVERY](https://liubin0145.github.io//files/quantile_jasa.pdf), **Submitted**
+DYNAMIC LOW-RANK MATRIX RECOVERY](https://liubin0145.github.io//files/low_rank.pdf), **Submitted**
 6. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
-Time-varying Markov Random Fields](https://arxiv.org/abs/2207.11532), **Submitted**
+Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Submitted**
 
 **Working papers**  
 1. Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang).

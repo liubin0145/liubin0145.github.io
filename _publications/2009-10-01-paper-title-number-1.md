@@ -32,6 +32,7 @@ DYNAMIC LOW-RANK MATRIX RECOVERY](https://liubin0145.github.io//files/low_rank.p
 6. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
 Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Submitted**
 
+.
 **Working papers**  
 1. Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang).
 2. A Decoupled framework for Detecting Structural Breaks in Ultra-High Dimensional low rank structures (With Zhiqiang Liu, Zhi Yang and Yufeng Liu).

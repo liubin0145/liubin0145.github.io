@@ -20,7 +20,7 @@ dimensional linear models: a general tail-adaptive approach](https://arxiv.org/a
 12. Mingjuan Zhang; Cheng Zhou; Yong He*; **Bin Liu**; [Data-adaptive test for high-dimensional multivariate analysis of variance problem](https://doi.org/10.1111/anzs.12246), **Australian & New Zealand Journal of Statistics**, 2018, 60: 447-470.
 13. Yong He; Xinsheng Zhang; Jiadong Ji; **Bin Liu***; [Joint estimation of multiple high-dimensional Gaussian copula graphical models](https://doi.org/10.1111/anzs.12198), **Australian & New Zealand Journal of Statistics**, 2017, 59: 289-310.
   
-**Submitted papers**
+**Submitted （working） papers**
 1. **Bin Liu**;  Yufeng Liu*; [A General U-Statistic Framework for High-Dimensional Multiple Change-Point](https://liubin0145.github.io//files/general_U.pdf), **Submitted**
 2. Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient Oracle-based Estimation and Inference for Multiple
 Change Points in High-Dimensional Gaussian Graphical Models under Temporal Dependence](https://liubin0145.github.io//files/graph_multi.pdf), **Submitted**
@@ -31,12 +31,10 @@ Framework for Change Detection in High Dimensions](https://liubin0145.github.io/
 DYNAMIC LOW-RANK MATRIX RECOVERY](https://liubin0145.github.io//files/low_rank.pdf), **Submitted**
 6. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
 Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Submitted**
-
-.**Working papers**  
-1. Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang).
-2. A Decoupled framework for Detecting Structural Breaks in Ultra-High Dimensional low rank structures (With Zhiqiang Liu, Zhi Yang and Yufeng Liu).
-3. Fast Multiple Change-Point Detection for Dependent High-Dimensional Gaussian Graphical Models (With Zhi Yang and Yufeng Liu).
-4. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints (With Zhi Yang and Yufeng Liu).
-5. Multiple Change-Point Detection in Structured Matrix Quantile Regression: A Fast Two-Step Procedure with Asymptotic Guarantees (With Xiranru Wang)
-6. General Structured Matrix Regression with Possible Change Points (With Xiranru Wang).
+7. Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise, **working paepr** (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang).
+8. A Decoupled framework for Detecting Structural Breaks in Ultra-High Dimensional low rank structures, **working paepr** (With Zhiqiang Liu, Zhi Yang and Yufeng Liu).
+9. Fast Multiple Change-Point Detection for Dependent High-Dimensional Gaussian Graphical Models, **working paepr** (With Zhi Yang and Yufeng Liu).
+10. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **working paepr** (With Zhi Yang and Yufeng Liu).
+11. Multiple Change-Point Detection in Structured Matrix Quantile Regression: A Fast Two-Step Procedure with Asymptotic Guarantees, **working paepr** (With Xiranru Wang)
+12. General Structured Matrix Regression with Possible Change Points, **working paepr** (With Xiranru Wang).
 

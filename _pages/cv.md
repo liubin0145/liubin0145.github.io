@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[中文简历](https://liubin0145.github.io//files/cv.pdf)/[CV](https://liubin0145.github.io//files/CV-FDSM.pdf)
+[中文简历](https://liubin0145.github.io//files/cv20260604.pdf)/[CV](https://liubin0145.github.io//files/cv-eng-20260604.pdf)
 
 Education
 ======
@@ -29,4 +29,5 @@ Research Interests
  * High dimensional data analysis
  * Change point analysis
  * Robust statitical inference
- * Statistical Machine Learning  
+ * Statistical Machine Learning
+ * Diffussion process

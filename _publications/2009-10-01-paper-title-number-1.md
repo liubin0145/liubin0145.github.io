@@ -34,7 +34,7 @@ Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pd
 7. **Bin Liu***; Yufeng Liu; Zhiqiang Liu; Liwen Zhang; [Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise](https://liubin0145.github.io//files/low_rank_heavy.pdf), **Under Review.** (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang)
 8. Zhiyang; Zhiqiang Liu; Liwen Zhang; **Bin Liu**; [Split and Merge (SaM): Efficient Change-Point Detection with
 Additive Computational Cost in Low-Rank Matrices](https://liubin0145.github.io//files/sam.pdf), **Under Review by Statistica Sinica.**
-9. Xiranru Wang; **Bin Liu**; [A Fast Two-Stage Algorithm for Multiple Changepoint Detection With General Segment-Wise Losses](https://liubin0145.github.io//files/general_loss.pdf),**Under Review by Stat.**
+9. Xiranru Wang; **Bin Liu**; [A Fast Two-Stage Algorithm for Multiple Changepoint Detection With General Segment-Wise Losses](https://liubin0145.github.io//files/geneal_loss.pdf),**Under Review by Stat.**
 10. Fast Multiple Change-Point Detection for Dependent High-Dimensional Gaussian Graphical Models, **To be submitted** (With Xianru Wang, Zhi Yang and Yufeng Liu).
 11. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu).
 12. Multiple Change-Point Detection in Structured Matrix Quantile Regression: A Fast Two-Step Procedure with Asymptotic Guarantees, **Working paper** (With Xiranru Wang)

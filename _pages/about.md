@@ -15,7 +15,7 @@ Email: bin_liu@fudan.edu.cn
 
 Github: [https://github.com/liubin0145/liubin0145.github.io](https://github.com/liubin0145/liubin0145.github.io)
 
-[中文简历](https://liubin0145.github.io//files/cv.pdf)/[CV](https://liubin0145.github.io//files/CV-FDSM.pdf)
+[中文简历](https://liubin0145.github.io//files/cv20260604.pdf)/[CV](https://liubin0145.github.io//files/cv-eng-20260604.pdf)
 
 Education
 ======

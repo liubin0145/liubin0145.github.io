@@ -20,7 +20,7 @@ dimensional linear models: a general tail-adaptive approach](https://www3.stat.s
 12. Mingjuan Zhang; Cheng Zhou; Yong He*; **Bin Liu**; [Data-adaptive test for high-dimensional multivariate analysis of variance problem](https://doi.org/10.1111/anzs.12246), **Australian & New Zealand Journal of Statistics**, 2018, 60: 447-470.
 13. Yong He; Xinsheng Zhang; Jiadong Ji; **Bin Liu***; [Joint estimation of multiple high-dimensional Gaussian copula graphical models](https://doi.org/10.1111/anzs.12198), **Australian & New Zealand Journal of Statistics**, 2017, 59: 289-310.
   
-**Submitted （working） papers**
+**Submitted Papers**
 1. **Bin Liu**;  Yufeng Liu*; [A General U-Statistic Framework for High-Dimensional Multiple Change-Point](https://liubin0145.github.io//files/general_U.pdf), **Under Revision by Biometrics.**
 2. Xianru Wang; **Bin Liu***; Xinsheng Zhang; Yufeng Liu; [Efficient Oracle-based Estimation and Inference for Multiple
 Change Points in High-Dimensional Gaussian Graphical Models under Temporal Dependence](https://liubin0145.github.io//files/graph_multi.pdf), **Under Revision by Statistica Sinica.**
@@ -30,20 +30,21 @@ DYNAMIC LOW-RANK MATRIX RECOVERY](https://liubin0145.github.io//files/low_rank.p
 Framework for Change Detection in High Dimensions](https://liubin0145.github.io//files/decouple.pdf), **Under Review by JMLR.**
 5.  Zhiyang; Qilong Ding; **Bin Liu***; Yufeng Liu; ; [Change-Point Detection in Tensor Graphical Models
 with Multiway Structure](https://liubin0145.github.io//files/DTGGM-main-liu-0802.pdf), **Under Review by JASA.**
-6. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
-Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Under Review by CSDA.**
+6. Zhiyang; Xianru Wang; **Bin Liu**;Yufeng Liu [Structural Break Estimation and Inference in Temporally
+Dependent High-Dimensional Dynamic Networks](https://liubin0145.github.io//files/DP_Graph_liu-0810.pdf),**Under Review by Joe.**
 7. **Bin Liu***; Yufeng Liu; Zhiqiang Liu; Liwen Zhang; [Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise](https://liubin0145.github.io//files/low_rank_heavy.pdf), **Under Review.** (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang)
 8. Zhiyang; Zhiqiang Liu; Liwen Zhang; **Bin Liu**; [Split and Merge (SaM): Efficient Change-Point Detection with
 Additive Computational Cost in Low-Rank Matrices](https://liubin0145.github.io//files/sam.pdf), **Under Review by Statistica Sinica.**
 9. Xiranru Wang; **Bin Liu**; [A Fast Two-Stage Algorithm for Multiple Changepoint Detection With General Segment-Wise Losses](https://liubin0145.github.io//files/geneal_loss.pdf),**Under Review by Stat.**
-10. Zhiyang; Xianru Wang; **Bin Liu**;Yufeng Liu [Structural Break Estimation and Inference in Temporally
-Dependent High-Dimensional Dynamic Networks](https://liubin0145.github.io//files/DP_Graph_liu-0810.pdf),**Under Review by Joe.**
+10. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
+Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Under Review by CSDA.**
 
-11. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu)
-12. Bayesian Asynchronous Segmentation in High Dimensions，**Working paper** (With Qina Xie and Juan Shen)
-13. When to Stop Evolving An online plateau detector for self-evolving LLM systems, **Working paper** (With Zhengling Qi)
-14. FALCON: Fast Change-Point Detection for High-Dimensional Approximately Low-Rank Models，**Working paper** (With Zhiqiang Liu and Yufeng Liu)
-15. Refine Before You Select: Pathwise Global Refinement for Multiple Change-Point Models，**Working paper** (With Xianru Wang and Yufeng Liu)
-16. TransGCP: Transfer Learning for Change-Point Estimation in High-Dimensional Precision Matrices，**Working paper** .
+**Working Papers**
+1. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu)
+2. Bayesian Asynchronous Segmentation in High Dimensions，**Working paper** (With Qina Xie and Juan Shen)
+3. When to Stop Evolving An online plateau detector for self-evolving LLM systems, **Working paper** (With Zhengling Qi)
+4. FALCON: Fast Change-Point Detection for High-Dimensional Approximately Low-Rank Models，**Working paper** (With Zhiqiang Liu and Yufeng Liu)
+5. Refine Before You Select: Pathwise Global Refinement for Multiple Change-Point Models，**Working paper** (With Xianru Wang and Yufeng Liu)
+6. TransGCP: Transfer Learning for Change-Point Estimation in High-Dimensional Precision Matrices，**Working paper** .
 
 

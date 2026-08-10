@@ -28,16 +28,20 @@ Change Points in High-Dimensional Gaussian Graphical Models under Temporal Depen
 DYNAMIC LOW-RANK MATRIX RECOVERY](https://liubin0145.github.io//files/low_rank.pdf), **Under Revision by JASA.**
 4.  **Bin Liu***; Yufeng Liu; Zhiyang; Liwen Zhang; [Fit First and Detect Later: A Unified Decoupled
 Framework for Change Detection in High Dimensions](https://liubin0145.github.io//files/decouple.pdf), **Under Review by JMLR.**
-5.  **Bin Liu***; Yufeng Liu; Zhiyang; Liwen Zhang; [Estimation of Multiple Structural Breaks in Ultra-High Dimensional Matrix-Valued Graphical Models](https://liubin0145.github.io//files/quantile_jasa.pdf), **Under Review by JASA.**
+5.  Zhiyang; Qilong Ding; **Bin Liu***; Yufeng Liu; ; [Change-Point Detection in Tensor Graphical Models
+with Multiway Structure](https://liubin0145.github.io//files/DTGGM-main-liu-0802.pdf), **Under Review by JASA.**
 6. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
 Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Under Review by CSDA.**
 7. **Bin Liu***; Yufeng Liu; Zhiqiang Liu; Liwen Zhang; [Robust Changepoint Detection for Low-Rank Matrix Models under Heavy-Tailed Noise](https://liubin0145.github.io//files/low_rank_heavy.pdf), **Under Review.** (With Zhiqiang Liu, Yufeng Liu and Liwen Zhang)
 8. Zhiyang; Zhiqiang Liu; Liwen Zhang; **Bin Liu**; [Split and Merge (SaM): Efficient Change-Point Detection with
 Additive Computational Cost in Low-Rank Matrices](https://liubin0145.github.io//files/sam.pdf), **Under Review by Statistica Sinica.**
 9. Xiranru Wang; **Bin Liu**; [A Fast Two-Stage Algorithm for Multiple Changepoint Detection With General Segment-Wise Losses](https://liubin0145.github.io//files/geneal_loss.pdf),**Under Review by Stat.**
-10. Fast Multiple Change-Point Detection for Dependent High-Dimensional Gaussian Graphical Models, **To be submitted** (With Xianru Wang, Zhi Yang and Yufeng Liu).
-11. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu).
-12. Multiple Change-Point Detection in Structured Matrix Quantile Regression: A Fast Two-Step Procedure with Asymptotic Guarantees, **Working paper** (With Xiranru Wang)
-13. Online Efficient Change Point Detection with Statistical Gurantees,**Working paper** (With Xiranru Wang)
+10. Zhiyang; Xianru Wang; **Bin Liu**;Yufeng Liu [Structural Break Estimation and Inference in Temporally
+Dependent High-Dimensional Dynamic Networks](https://liubin0145.github.io//files/DP_Graph_liu-0810.pdf),**Under Review by Joe.**
+
+11. Fast Multiple Change-Point Detection for Dependent High-Dimensional Gaussian Graphical Models, **To be submitted** (With Xianru Wang, Zhi Yang and Yufeng Liu).
+12. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu).
+13. Multiple Change-Point Detection in Structured Matrix Quantile Regression: A Fast Two-Step Procedure with Asymptotic Guarantees, **Working paper** (With Xiranru Wang)
+14. Online Efficient Change Point Detection with Statistical Gurantees,**Working paper** (With Xiranru Wang)
 
 

@@ -39,6 +39,7 @@ Additive Computational Cost in Low-Rank Matrices](https://liubin0145.github.io//
 10. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
 Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Under Review by CSDA.**
 
+  
 **Working Papers**
 1. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu)
 2. Bayesian Asynchronous Segmentation in High Dimensions，**Working paper** (With Qina Xie and Juan Shen)

@@ -47,5 +47,7 @@ Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pd
 4. FALCON: Fast Change-Point Detection for High-Dimensional Approximately Low-Rank Models，**Working paper** (With Zhiqiang Liu and Yufeng Liu)
 5. Refine Before You Select: Pathwise Global Refinement for Multiple Change-Point Models，**Working paper** (With Xianru Wang and Yufeng Liu)
 6. TransGCP: Transfer Learning for Change-Point Estimation in High-Dimensional Precision Matrices，**Working paper** .
+7. MOSAIC-TG: Change-Point Detection in Tensor Graphical Models with Smoothly and Abruptly Evolving Model,**Working paper** .
+8. MOSAIC: Mode-Selective Detection of Partially Shared Change Points in Tensor Graphical Models，**Working paper** .
 
 

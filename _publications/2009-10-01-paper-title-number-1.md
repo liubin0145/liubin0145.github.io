@@ -38,7 +38,7 @@ Additive Computational Cost in Low-Rank Matrices](https://liubin0145.github.io//
 9. Xiranru Wang; **Bin Liu**; [A Fast Two-Stage Algorithm for Multiple Changepoint Detection With General Segment-Wise Losses](https://liubin0145.github.io//files/geneal_loss.pdf),**Under Review by Stat.**
 10. Qilong Ding; **Bin Liu**;   [Efficient Multiple Change Point Detection in
 Time-varying Markov Random Fields](https://liubin0145.github.io//files/markov.pdf), **Under Review by CSDA.**
-
+  
   
 **Working Papers**
 1. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu)

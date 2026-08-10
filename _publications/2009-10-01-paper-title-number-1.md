@@ -44,6 +44,6 @@ Dependent High-Dimensional Dynamic Networks](https://liubin0145.github.io//files
 13. When to Stop Evolving An online plateau detector for self-evolving LLM systems, **Working paper** (With Zhengling Qi)
 14. FALCON: Fast Change-Point Detection for High-Dimensional Approximately Low-Rank Models，**Working paper** (With Zhiqiang Liu and Yufeng Liu)
 15. Refine Before You Select: Pathwise Global Refinement for Multiple Change-Point Models，**Working paper** (With Xianru Wang and Yufeng Liu)
-16. TransGCP: Transfer Learning for Change-Point Estimation in High-Dimensional Precision Matrices，**Working paper** 
+16. TransGCP: Transfer Learning for Change-Point Estimation in High-Dimensional Precision Matrices，**Working paper** .
 
 

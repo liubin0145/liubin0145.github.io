@@ -39,9 +39,11 @@ Additive Computational Cost in Low-Rank Matrices](https://liubin0145.github.io//
 10. Zhiyang; Xianru Wang; **Bin Liu**;Yufeng Liu [Structural Break Estimation and Inference in Temporally
 Dependent High-Dimensional Dynamic Networks](https://liubin0145.github.io//files/DP_Graph_liu-0810.pdf),**Under Review by Joe.**
 
-11. Fast Multiple Change-Point Detection for Dependent High-Dimensional Gaussian Graphical Models, **To be submitted** (With Xianru Wang, Zhi Yang and Yufeng Liu).
-12. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu).
-13. Multiple Change-Point Detection in Structured Matrix Quantile Regression: A Fast Two-Step Procedure with Asymptotic Guarantees, **Working paper** (With Xiranru Wang)
-14. Online Efficient Change Point Detection with Statistical Gurantees,**Working paper** (With Xiranru Wang)
+11. Structured Change-Point Detection for Matrix Quantile Regression under Low-Rank and Sparse Constraints, **Working paper** (With Zhiqiang Liu and Yufeng Liu)
+12. Bayesian Asynchronous Segmentation in High Dimensions，**Working paper** (With Qina Xie and Juan Shen)
+13. When to Stop Evolving An online plateau detector for self-evolving LLM systems, **Working paper** (With Zhengling Qi)
+14. FALCON: Fast Change-Point Detection for High-Dimensional Approximately Low-Rank Models，**Working paper** (With Zhiqiang Liu and Yufeng Liu)
+15. Refine Before You Select: Pathwise Global Refinement for Multiple Change-Point Models，**Working paper** (With Xianru Wang and Yufeng Liu)
+16. TransGCP: Transfer Learning for Change-Point Estimation in High-Dimensional Precision Matrices，**Working paper** 
 
 
